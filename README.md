@@ -1,5 +1,5 @@
 
-# BIO
+# ABOUT ME :arrow_down_small:
 
 * always think on the next project :smirk:
 * love programing :heart_eyes:
